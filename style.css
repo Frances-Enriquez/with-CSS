@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    color: pink;
+}
+span{
+    color:azure;
+}
+h2{
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
+h3{
+    background-color: black;
+    color: azure;
+    text-align: right;
+    text-decoration: underline;
+}
